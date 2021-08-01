@@ -1,0 +1,24 @@
+{
+  "name": "esbuild-plugin-gzipper",
+  "version": "1.0.0",
+  "description": "An esbuild plugin to gzip output files",
+  "main": "plugin/mod.js",
+  "type": "module",
+  "repository": "https://github.com/mojtabakaviani/esbuild-plugin-gzipper",
+  "author": "mojtaba Kaviani",
+  "license": "MIT",
+  "files": [
+    "plugin/"
+  ],
+  "keywords": [
+    "esbuild",
+    "plugin",
+    "compress",
+    "gzip",
+  ],
+  "peerDependencies": {
+    "esbuild": "^0.8.0"
+  },
+  "dependencies": {
+  }
+}
